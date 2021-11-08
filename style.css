@@ -3,10 +3,10 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #000000;  
+    background-color: #e40d0d;  
     
     color: #f7f0f0;
-    font: Verdana, Arial, Sans-Serif;
+    font: helvetica
 }
 
 
@@ -47,11 +47,11 @@ img.zweefLinks {
 
 a {
     color: skyblue;
-    text-decoration: blueviolet;
+    text-decoration: none;
 }
 
 a:hover {
-    text-decoration: aqua;
+    text-decoration: none;
 }
 
 
