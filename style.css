@@ -2,8 +2,9 @@
 
 html, body {
     height: 100%;
-    padding: 0;
-    background-color: #e40d0d;  
+    padding: 0px;
+    margin: 0px;
+    background-color: #111111;  
     
     color: #f7f0f0;
     font: helvetica
@@ -60,7 +61,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #070606;
+    background-color: #111111;
     overflow: hidden;
 }
 
@@ -77,11 +78,11 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #0f0e0e;
+    background-color: #0c013d;
 }
 
 nav li a.active {
-    background-color: rgb(7, 8, 8);
+    background-color:  #111111;
 }
 
 
