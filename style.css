@@ -57,6 +57,9 @@ a:hover {
     text-decoration: none;
 }
 
+img.zweefrechts {
+    float: right;
+}
 
 /* navigatiebalk */
 nav ul {
