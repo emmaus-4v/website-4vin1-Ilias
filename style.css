@@ -59,6 +59,7 @@ a:hover {
 
 img.zweefrechts {
     float: right;
+    margin: left 50px;;
 }
 
 /* navigatiebalk */
