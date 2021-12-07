@@ -6,6 +6,11 @@ html, body {
     margin: 0px;
     background-color: #111111;  
     
+    background-image: url("afbeeldingen/2244865.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
     color: #f7f0f0;
     font: Arial
 }
