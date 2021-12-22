@@ -11,7 +11,7 @@ html, body {
     background-attachment: fixed;
     background-size: cover;
     
-    color: rgb(14, 166, 204);
+    color: rgb(255, 255, 255);
     font: Arial
 }
 
@@ -54,7 +54,7 @@ img.zweefLinks {
 }
 
 a {
-    color: skyblue;
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
